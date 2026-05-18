@@ -1,2 +1,2 @@
 # portfolio
-https://phani-kudipudi.github.io/portfolio/
+https://github.com/AkshayaTulasi08/akshayaportfolio/
